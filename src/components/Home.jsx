@@ -1,5 +1,5 @@
 import React from 'react';
-import img2 from '../images/profile.png';
+import img2 from '../../src/images/profile.png';
 
 const Home = () => {
     return (
